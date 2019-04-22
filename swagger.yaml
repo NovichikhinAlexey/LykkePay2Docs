@@ -12,13 +12,13 @@ info:
 
     #### Allowed HTTPs requests:
 
-    - **POST** : To create resource 
+    - **POST** : To create resource. 
 
-    - **PUT** : To update resource
+    - **PUT** : To update resource. 
 
-    - **GET** : To get a resource or list of resources
+    - **GET** : To get a resource or list of resources. 
 
-    - **DELETE** : To delete resource
+    - **DELETE** : To delete resource. pi 
 
 
     #### Description Of Usual Server Responses:
